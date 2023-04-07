@@ -1,3 +1,5 @@
+
+
 ### Hi there 👋
 
 <p align="left"> 
@@ -10,6 +12,8 @@
 [![future-architect/tftarget](https://github-readme-stats.vercel.app/api/pin/?username=future-architect&repo=tftarget)](https://github.com/future-architect/tftarget)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=orangekame3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://raw.githubusercontent.com/orangekame3/orangekame3/8e15b93a04a293126fd7e6092fad1df069113162/profile-3d-contrib/profile-green-animate.svg" alt="エビフライトライアングル" title="サンプル">
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +32,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
 
