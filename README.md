@@ -7,7 +7,7 @@
 
 ### Work
 
-![future-architect/tftarget](https://github-readme-stats.vercel.app/api/pin/?username=future-architect&repo=tftarget)
+[![future-architect/tftarget](https://github-readme-stats.vercel.app/api/pin/?username=future-architect&repo=tftarget)](https://github.com/future-architect/tftarget)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=orangekame3)](https://github.com/ryo-ma/github-profile-trophy)
 
