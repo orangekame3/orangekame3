@@ -13,4 +13,4 @@
 
 [![orangekame3/stree](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=stree)](https://github.com/orangekame3/stree)
 
-[![orangekame3/viff](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=stree)](https://github.com/orangekame3/viff)
+[![orangekame3/viff](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=viff)](https://github.com/orangekame3/viff)
