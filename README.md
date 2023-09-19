@@ -12,9 +12,7 @@
 [![future-architect/tftarget](https://github-readme-stats.vercel.app/api/pin/?username=future-architect&repo=tftarget)](https://github.com/future-architect/tftarget)
 
 [![orangekame3/stree](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=stree)](https://github.com/orangekame3/stree)
-
 [![orangekame3/viff](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=viff)](https://github.com/orangekame3/viff)
 
 [![orangekame3/diffy](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=irodori)](https://github.com/orangekame3/irodori)
-
 [![orangekame3/diffy](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=diffy)](https://github.com/orangekame3/diffy)
