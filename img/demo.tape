@@ -51,4 +51,4 @@ Set Height 1200
 
 Sleep 500ms
 Type "ghfetch -u orangekame3" Sleep 1000ms Enter
-Sleep 10s
+Sleep 15s
