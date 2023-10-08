@@ -15,4 +15,4 @@
 [![orangekame3/viff](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=viff)](https://github.com/orangekame3/viff)
 
 [![orangekame3/diffy](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=paclear)](https://github.com/orangekame3/paclear)
-[![orangekame3/diffy](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=diffy)](https://github.com/orangekame3/diffy)
+[![orangekame3/diffy](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=ghfetch)](https://github.com/orangekame3/ghfetch)
