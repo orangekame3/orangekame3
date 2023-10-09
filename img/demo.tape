@@ -46,8 +46,8 @@ Set MarginFill "#674EFF"
 Set BorderRadius 10
 
 Set FontSize 32
-Set Width 1800
-Set Height 1000
+Set Width 1500
+Set Height 900
 
 Sleep 500ms
 Type "ghfetch -u orangekame3 --access-token=$GITHUB_TOKEN" Sleep 1000ms Enter
