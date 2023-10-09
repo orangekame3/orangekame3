@@ -50,5 +50,5 @@ Set Width 2000
 Set Height 1200
 
 Sleep 500ms
-Type "ghfetch -u orangekame3 --access-token=$GITHUB_TOKEN -m "Wellcom my account page"" Sleep 1000ms Enter
-Sleep 15s
+Type "ghfetch -u orangekame3 --access-token=$GITHUB_TOKEN" Sleep 1000ms Enter
+Sleep 10s
