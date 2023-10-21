@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 🐢 Welcome.
+## Hi 👋 Welcome 🐢
 
 <img src="img/demo.gif" alt="Demonstration of ghfetch" height="auto" width="auto"/>
 
