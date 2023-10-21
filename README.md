@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 🐢 Welcome [@orangekame3](https://github.com/orangekame3) Account
+## Hi 🐢 Welcome.
 
 <img src="img/demo.gif" alt="Demonstration of ghfetch" height="auto" width="auto"/>
 
