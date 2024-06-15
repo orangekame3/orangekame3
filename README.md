@@ -11,6 +11,12 @@ Check more info → [ghfetch](https://github.com/orangekame3/ghfetch)
 ## About me 
 [Click here!](https://orangekame3.github.io)
 
+## Stats
+
+[![orangekame3's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=orangekame3&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![orangekame3's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=orangekame3&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 ## Work
 
 [![future-architect/tftarget](https://github-readme-stats.vercel.app/api/pin/?username=future-architect&repo=tftarget)](https://github.com/future-architect/tftarget)
