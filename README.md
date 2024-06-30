@@ -17,9 +17,9 @@ Check more info → [ghfetch](https://github.com/orangekame3/ghfetch)
 [![future-architect/tftarget](https://github-readme-stats.vercel.app/api/pin/?username=future-architect&repo=tftarget)](https://github.com/future-architect/tftarget)
 
 [![orangekame3/stree](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=stree)](https://github.com/orangekame3/stree)
-[![orangekame3/viff](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=viff)](https://github.com/orangekame3/viff)
+[![orangekame3/mk](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=mk)](https://github.com/orangekame3/mk)
 
-[![orangekame3/diffy](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=paclear)](https://github.com/orangekame3/paclear)
-[![orangekame3/diffy](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=ghfetch)](https://github.com/orangekame3/ghfetch)
+[![orangekame3/paclear](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=paclear)](https://github.com/orangekame3/paclear)
+[![orangekame3/ghfetch](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=ghfetch)](https://github.com/orangekame3/ghfetch)
 
 </div>
