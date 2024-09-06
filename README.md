@@ -13,7 +13,7 @@ Check more info → [ghfetch](https://github.com/orangekame3/ghfetch)
 
 
 ## Work
-
+[![oqtopus-team/oqtopus-cloud](https://github-readme-stats.vercel.app/api/pin/?username=oqtopus-team&repo=oqtopus-cloud)](https://github.com/oqtopus-team/oqtopus-cloud)
 [![future-architect/tftarget](https://github-readme-stats.vercel.app/api/pin/?username=future-architect&repo=tftarget)](https://github.com/future-architect/tftarget)
 
 [![orangekame3/stree](https://github-readme-stats.vercel.app/api/pin/?username=orangekame3&repo=stree)](https://github.com/orangekame3/stree)
